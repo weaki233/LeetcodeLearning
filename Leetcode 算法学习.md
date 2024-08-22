@@ -121,7 +121,7 @@
 - O(logn)(二分) / O(n)(线性查找/线性遍历) / O(nlogn) (贪心/双指针，先排序再遍历)的时间复杂度
 - 双重循环无法通过，但可以接受直接遍历，很多贪心/双指针的问题
 
-![image-20240820120532040](./Leetcode 算法学习.assets/image-20240820120532040.png)
+![image-20240820120532040](https://cdn.jsdelivr.net/gh/weaki233/image-gallery/LeetcodeLearning/202408222158473.png)
 
 ##### 数据范围：n ~ 1000,000
 
